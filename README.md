@@ -11,8 +11,10 @@
 # Donations 💸
 > Not available at the moment!
 
-# Contact
+# Contact Me
 > DiscordTag = Allu#6595
+
+# Support Server
 > Support Server = https://discord.gg/nfy7jr3KeQ
 
 That's all for now!
