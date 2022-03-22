@@ -1,4 +1,4 @@
-# AgentMax 🕶️
+# Allu's Utilities! 🕶️
 > A multi-purpose Discord Bot to make server management easier!
 
 # Features 🚀
