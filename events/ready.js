@@ -6,7 +6,7 @@ module.exports = {
 	name: "ready",
 	once: true,
 	execute(client, commands) {
-		console.log("Max is online.");
+		console.log("Allu's Utilities is online!");
 
 		const CLIENT_ID = client.user.id;
 

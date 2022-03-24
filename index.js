@@ -4,10 +4,11 @@
 const express = require('express');
 const app = express();
 app.get('/', (req, res) => {
-  res.redirect("https://google.com")
+  res.redirect("hello")
 });
 app.listen(3000, () => {
 });
+
 
 
 
@@ -31,6 +32,7 @@ Intents.FLAGS.GUILD_EMOJIS_AND_STICKERS,
 
 	]
 });
+
 const Database = require("./config/database.js");
 
 const db = new Database();
@@ -38,6 +40,17 @@ const db = new Database();
 db.connect();
 
 const models = fs.readdirSync("./models").filter(file => file.endsWith(".js"));
+
+
+
+
+
+
+
+
+
+
+
 
 
 

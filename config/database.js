@@ -13,7 +13,7 @@ class Database {
 			useNewUrlParser: true,
 			useUnifiedTopology: true,
 		}).then(() => {
-			console.log('Connected to database');
+			console.log('Connected to database!');
 			this.connection = mongoose.connection;
 		}).catch(err => {
 			console.error(err);
